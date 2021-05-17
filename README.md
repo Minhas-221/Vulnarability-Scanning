@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img src="https://images.unsplash.com/photo-1547954575-855750c57bd3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="Project logo"></a>
 </p>
-<h1 align="center">Vulnarability-Scanning</h1>
+<h1 align="center">Vulnerability-Scanning</h1>
 
 
 <div align="center">
